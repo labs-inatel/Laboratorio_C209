@@ -1,0 +1,9 @@
+<svg width="1060" height="742" viewBox="-2100 -1470 4200 2940" xmlns="http://www.w3.org/2000/svg" transform="rotate(30)" style="margin: 300px;">
+<clipPath id="faixa">
+<circle r="735"/>
+</clipPath>
+<rect x="-2100" y="-1470" width="4200" height="2940" fill="rgb(0, 156, 59)"/>
+<path d="M -1743,0 0,1113 1743,0 0,-1113 Z" fill="rgb(255, 233, 0)"/>
+<circle r="735" fill="rgb(0, 39, 118)"/>
+<path d="m-2205 1470a1785 1785 0 0 1 3570 0h-105a1680 1680 0 1 0-3360 0z" clip-path="url(#faixa)" fill="rgb(255, 255, 255)"/>
+</svg> 
