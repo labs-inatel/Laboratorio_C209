@@ -1,5 +1,8 @@
 # C209 - Computação Gráfica e Multimídia
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
+
 Repositório com os projetos e exercícios desenvolvidos na disciplina **C209 - Computação Gráfica e Multimídia**.
 
 ## Conteúdo
